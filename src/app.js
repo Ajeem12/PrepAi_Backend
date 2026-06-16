@@ -10,7 +10,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://prep-ai-frontend-jet.vercel.app/login",
+      "https://prepai-frontend-0mo8.onrender.com/",
     ],
     credentials: true,
   }),
